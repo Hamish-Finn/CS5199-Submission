@@ -1,0 +1,5 @@
+This data was generated using the following SIRQ model presented in (https://github.com/k-rizi/Contact-Tracing-On-Clique-Networks/blob/main/fig3a/fig3a.ipynb)
+
+Please note the experiment was adjusted to save all raw data rather than process data to calculate and save the mean value of experiment repeats. 
+
+The adapted code is provided in this directory as /fig3a-adapted.ipynb.
